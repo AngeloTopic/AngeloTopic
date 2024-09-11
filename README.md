@@ -8,7 +8,7 @@
 
 <h3 align="left">⚡ Fun fact:</h3>
 
-  **Ich programmiere, nur wenn ich es brauche**
+  **I only program when I need to.**
 
 
 <h3 align="left">Connect with me:</h3>
