@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
 <h3 align="center">I love Linux ;3</h3>
 
-- ⚡ Fun fact **Ich Scripte, nur wenn ich es brauche**
+- ⚡ Fun fact **Ich programmiere, nur wenn ich es brauche**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
