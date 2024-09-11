@@ -39,7 +39,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> 
-    <img src="https://gist.github.com/Xainey/d5bde7d01dcbac51ac951810e94313aa#file-powershell-svg" alt="powershell" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powershell/microsoft_powershell-icon.svg" alt="powershell" width="40" height="40"/> 
   </a> 
 </p>
+
 
