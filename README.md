@@ -6,8 +6,9 @@
   <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="Debian Logo" width="50" height="50"/>
 </p>
 
+<h3 align="left">⚡ Fun fact:</h3>
 
-- ⚡ Fun fact: **Ich programmiere, nur wenn ich es brauche**
+  **Ich programmiere, nur wenn ich es brauche**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
