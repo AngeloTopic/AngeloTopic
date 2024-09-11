@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
 <h3 align="center">I love Linux ;3</h3>
-<h3 align="center">My Linux Distro is Debian GNU/Linux</h3>
+<h3 align="center">I use Debian GNU/Linux as my Linux distribution.</h3>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="Debian Logo" width="50" height="50"/>
-  
 </p>
+
 
 - ⚡ Fun fact: **Ich programmiere, nur wenn ich es brauche**
 
