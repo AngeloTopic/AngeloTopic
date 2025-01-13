@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
 <h3 align="center">I love Linux ;3</h3>
-<h3 align="center">I use Debian GNU/Linux as my Linux distribution.</h3>
+<h3 align="center">I use EndeavourOS as my Linux distribution.</h3>
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="Debian Logo" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" alt="endeavouros Logo" width="50" height="50"/>
 </p>
 
 <h3 align="left">⚡ Fun fact:</h3>
