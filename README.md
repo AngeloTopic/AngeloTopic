@@ -3,7 +3,7 @@
 <h3 align="center">I use EndeavourOS as my Linux distribution.</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/endeavouros-team/endeavouros-theming/master/endeavouros-icon.png" alt="endeavouros Logo" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/EndeavourOS_Logo.png" alt="endeavouros Logo" width="50" height="50"/>
 </p>
 
 <h3 align="left">⚡ Fun fact:</h3>
