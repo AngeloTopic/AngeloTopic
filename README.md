@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angelo</h1>
 <h3 align="center">I love Linux ;3</h3>
-<h3 align="center">I use EndeavourOS as my Linux distribution.</h3>
+<h3 align="center">I use Fedora as my Linux distribution.</h3>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/EndeavourOS_Logo.png" alt="endeavouros Logo" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" alt="fedora Logo" width="50" height="50"/>
 </p>
 
 <h3 align="left">⚡ Fun fact:</h3>
@@ -37,9 +37,6 @@
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
 </p>
 
